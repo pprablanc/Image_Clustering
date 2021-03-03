@@ -1,0 +1,7 @@
+Image clusterting
+
+* DONE ACP + hist (3 channels concatenated)
+* TODO auto-encoder + hist
+* DONE CNN + autoencoder
+* TODO CNN + * + Transfer Learning
+* DONE CNN + variational autoencoder
